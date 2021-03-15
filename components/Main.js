@@ -37,28 +37,28 @@ export default function Main() {
           <div className="grid grid-cols-2 gap-16 mb-16 text-center lg:grid-cols-4">
             <div className="flex items-center justify-center">
               <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/368px-Google_2015_logo.svg.png"
+                src="/images/Google-Logo.webp"
                 alt="Google Logo"
                 className="block object-contain h-16 greyC"
               ></img>
             </div>
             <div className="flex items-center justify-center">
               <img
-                src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg"
+                src="/images/Shopify-Logo.svg"
                 alt="Shopify Logo"
                 className="block object-contain h-16 greyC"
               ></img>
             </div>
             <div className="flex items-center justify-center">
               <img
-                src="https://www.cloudflare.com/img/logo-web-badges/cf-logo-on-white-bg.svg"
+                src="/images/Cloudflare-Logo.svg"
                 alt="Cloudflare Logo"
                 className="block object-contain h-16 greyC"
               ></img>
             </div>
             <div className="flex items-center justify-center">
               <img
-                src="https://logos-world.net/wp-content/uploads/2020/05/PayPal-Logo.png"
+                src="/images/PayPal-Logo.png"
                 alt="Paypal Logo"
                 className="block object-contain h-16 greyC"
               ></img>
