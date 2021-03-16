@@ -66,11 +66,11 @@ export default function Main() {
           </div>
         </div>
       </section>
-      <div className="grr max-w-7xl pt-20 mx-auto text-left md:text-center">
+      <div className="grr max-w-7xl pt-20 mx-auto text-center">
         <h1 className="mb-8 text-6xl Avenir font-semibold text-gray-900">
           Less code, less effort.
         </h1>
-        <h1 className="mb-8 text-2xl Avenir font-semibold text-gray-600">
+        <h1 className="mb-8 text-2xl Avenir font-semibold text-gray-600 text-center">
           Minify your CSS with Tailwinds built in PostCSS support.
         </h1>
         <div className="container flex flex-col items-center justify-center mx-auto rounded-lg ">
