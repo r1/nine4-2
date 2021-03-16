@@ -9,9 +9,9 @@ export default function Contact() {
       <NextSeo
         title="404: nine4"
         description="404 page for all our missing pages"
-        canonical="https://nine4-cna-2.vercel.app/404"
+        canonical="https://nine4-2.vercel.app/404"
         openGraph={{
-          url: "https://nine4-cna-2.vercel.app/404",
+          url: "https://nine4-2.vercel.app/404",
         }}
       />
       <Head>
