@@ -7,13 +7,13 @@ export default function Main() {
             We are making Stunning Websites
           </h1>
           <p className="mb-4 xl:w-3/4 text-gray-600 text-lg">
-            nine4 is a free to use template website for websites made with
+            nine4 is a free to use website template for websites made with
             Next.js and styled with Tailwind CSS
           </p>
           <div className="flex justify-center">
             <a
               className="inline-flex items-center px-5 py-3 mt-2 font-medium text-white transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-gray-900"
-              href="/"
+              href="https://github.com/r1/nine4-2/"
             >
               <span className="justify-center">Find out more</span>
             </a>
@@ -71,7 +71,7 @@ export default function Main() {
           Less code, less effort.
         </h1>
         <h1 className="mb-8 text-2xl Avenir font-semibold text-gray-600 text-center">
-          Minify your CSS with Tailwinds built in PostCSS support.
+          Minify your CSS with Tailwind's built in PostCSS support.
         </h1>
         <div className="container flex flex-col items-center justify-center mx-auto rounded-lg ">
           <img
